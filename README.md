@@ -57,11 +57,6 @@ src/
     └── Perfil/              # página protegida
 ```
 
-## Capturas de pantalla
-
-- Página estática (Inicio): `![Inicio](ruta/a/inicio.png)`
-- Ruta dinámica (Producto): `![Producto](ruta/a/producto.png)`
-- Ruta protegida (Login → Perfil): `![Protegida](ruta/a/protegida.png)`
 
 ## Autor
 
