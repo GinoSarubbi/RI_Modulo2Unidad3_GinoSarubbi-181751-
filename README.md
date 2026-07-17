@@ -25,7 +25,7 @@ layout fijo y una ruta protegida con redirección post-login.
 
 ```bash
 # 1. Clonar el repositorio
-git clone <URL-DEL-REPO>
+git clone RI_Modulo2Unidad3_GinoSarubbi-181751
 cd ginosarubbi-modulo2unidad3
 
 # 2. Instalar dependencias
