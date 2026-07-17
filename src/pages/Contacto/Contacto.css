@@ -1,0 +1,9 @@
+.filtros { display: flex; gap: 0.5rem; margin: 1rem 0; flex-wrap: wrap; }
+.filtros button { background-color: #1e1a2b; }
+.filtros button.activo { background-color: #a855f7; }
+.lista-mensajes { list-style: none; display: flex; flex-direction: column; gap: 0.5rem; }
+.lista-mensajes li {
+  background-color: #1e1a2b;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+}
