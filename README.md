@@ -1,4 +1,4 @@
-# Mini Dashboard — Rutas públicas y protegidas
+# Mini E-comerce — Rutas públicas y protegidas
 
 Proyecto de práctica de **enrutamiento en React** con `react-router-dom`.
 Implementa rutas básicas, ruta dinámica, query params, rutas anidadas con un
